@@ -68,3 +68,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+ Full Project Description 
+This is a responsive and interactive To-Do List web application built using React. It allows users to:
+
+Add new tasks using an input field and a plus icon
+
+Mark tasks as completed using checkboxes
+
+Delete tasks using a delete (×) icon
+
+View a list of completed tasks at the bottom
+
+The app uses React functional components, the useState hook for state management, and conditional rendering to update UI in real time.
